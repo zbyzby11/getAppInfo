@@ -4,7 +4,7 @@
 100个app，爬取两个百科（百度百科，互动百科）的信息，需要爬取的信息为：
 
 (1) Inforbox：
-![](pic/inforbox.jpg) 
+!(https://github.com/zbyzby11/getAppInfo/blob/master/pic/inforbox.jpg?raw=true)
 
 (2) 摘要：
 ![](pic/summary.jpg)
